@@ -1,2 +1,2 @@
-# Meu-reposit-rio
+# Meu-repositório
 Meus aprendizados!
